@@ -7,7 +7,7 @@ This bot automates the process of clearing tasks in the Side Quests game. It fet
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/dante4rt/side-quests-bot.git
+   git clone https://github.com/rmndkyl/side-quests-bot.git
    ```
 
 2. Install dependencies:
