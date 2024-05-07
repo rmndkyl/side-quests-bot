@@ -14,7 +14,7 @@ const MY_BEARER = process.env.TOKEN;
     }
 
     console.log(
-      'All tasks have been cleared, congrats! Subscribe: https://t.me/HappyCuanAirdrop'
+      'All tasks have been cleared, congrats! Subscribe: https://t.me/layerairdrop'
     );
   } catch (error) {
     console.log(
